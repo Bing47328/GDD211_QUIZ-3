@@ -7,6 +7,5 @@ public class Bear : SelectItem
     public override void UseItem()
     {
         base.UseItem();
-        
     }
 }

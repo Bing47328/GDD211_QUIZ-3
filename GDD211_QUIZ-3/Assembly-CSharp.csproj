@@ -59,6 +59,10 @@
     <Compile Include="Assets\Scripts\ChangeText.cs" />
     <Compile Include="Assets\Scripts\SelectItem.cs" />
     <Compile Include="Assets\Scripts\Bear.cs" />
+    <Compile Include="Assets\Scripts\Apple.cs" />
+    <Compile Include="Assets\Scripts\Orb.cs" />
+    <Compile Include="Assets\Scripts\Flowers.cs" />
+    <Compile Include="Assets\Scripts\Beehive.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
